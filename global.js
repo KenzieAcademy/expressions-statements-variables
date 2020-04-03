@@ -15,7 +15,7 @@ let answer2 = 2 - 1;
 console.log(answer2);
 
 // 3.) Log an expression that concatenates the two strings "I'm writing" and "my first JavaScript code"
-let sentence = "I'm writing my first Javascript code"
+let sentence = ("I'm writing" + " my first JavaScript code.")
 console.log(sentence)
 
 // 4.) Log an expression that evaluates to true or false using two numbers that are greater or less than eachother
